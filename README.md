@@ -180,21 +180,9 @@
 - **파일구조**: 기능별 폴더 분리 (Models, Views, ViewModels, Repository)
 - **버전 대응**: `@available` 속성으로 macOS 12.0/13.0+ 분기
 
----
-
-## 🚀 실행 방법
-
-```bash
-# Realm 의존성 설치
-pod install  # 또는 Swift Package Manager
-
-# Xcode에서 실행
-open AlgoDaily.xcworkspace
-⌘ + R
-```
 
 ---
 
 **개발자**: yonggun Park  
-**개발 기간**: 2025년 10월 ~ 12월  
+**개발 기간**: 2025년 11월 ~ 진행중  
 **플랫폼**: macOS 12.0+
