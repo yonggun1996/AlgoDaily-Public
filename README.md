@@ -175,8 +175,6 @@
 
 ## 📝 코드 컨벤션
 
-- **명명규칙**: Swift API Design Guidelines 준수
-- **주석**: 복잡한 로직에만 선택적으로 사용
 - **파일구조**: 기능별 폴더 분리 (Models, Views, ViewModels, Repository)
 - **버전 대응**: `@available` 속성으로 macOS 12.0/13.0+ 분기
 
